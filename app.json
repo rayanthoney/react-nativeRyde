@@ -1,12 +1,17 @@
 {
   "expo": {
-    "name": "ram_rn_uber",
-    "slug": "ram_rn_uber",
+    "name": "Uber",
+    "slug": "uber",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "ramrnuber",
     "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2F80ED"
+    },
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
@@ -28,7 +33,7 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "./assets/images/splash.png",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"

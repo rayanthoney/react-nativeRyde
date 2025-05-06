@@ -14,7 +14,7 @@
    <p align="center">
     <h3>An Uber Clone app with Payments | PostgreSQL, TypeScript, Stripe, Tailwind.</h3>
     <br />
-    <a href="https://github.com/rayanthoney/react-nativeRyde.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/adrianhajdin/uber.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/rayanthoney/Repository-Name">View Demo</a>
@@ -44,9 +44,9 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <!-- <li><a href="#contributing">Contributing</a></li> -->
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#contributing">Contributing</a></li>
     <!-- <li><a href="#acknowledgments">Acknowledgments</a></li> -->
   </ol>
 </details>
@@ -78,7 +78,7 @@
 - zustand
 - Clerk
 - Tailwind CSS
-
+<br>
 <br>
 
 [![React Native][React_Native]][React_Native-url]
@@ -90,29 +90,8 @@
 [![Clerk][Clerk]][Clerk-url]
 [![Google-Maps][Google-Maps]][Google-Maps-url]
 [![Zustand][Zustand]][Zustand-url]
-
 <br>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[React_Native]: https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB
-[React_Native-url]: https://example.com/
-[Expo]: https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020
-[Expo-url]: https://example.com/
-[TypeScript]: https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6
-[TypeScript-url]: https://example.com/
-[TailWind]: https://img.shields.io/badge/-Nativewind-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4
-[TailWind-url]: https://example.com/
-[Postgresql]: https://img.shields.io/badge/-PostGreSQL-black?style=for-the-badge&logoColor=white&logo=postgresql&color=4169e1
-[Postgresql-url]: https://example.com/
-[Stripe]: https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=6860ff
-[Stripe-url]: https://example.com/
-[Clerk]: https://img.shields.io/badge/-Clerk-black?style=for-the-badge&logoColor=white&logo=clerk&color=787984
-[Clerk-url]: https://example.com/
-[Google-Maps]: https://img.shields.io/badge/-Google_Maps-black?style=for-the-badge&logoColor=white&logo=google&color=34A853
-[Google-Maps-url]: https://example.com/
-[Zustand]: https://img.shields.io/badge/-Zustand-black?style=for-the-badge&logoColor=white&logo=zustand&color=a24f73
-[Zustand-url]: https://example.com/
+<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br>
@@ -219,4 +198,37 @@ Ray Anthoney - [@rayanthoney](https://twitter.com/@rayanthoney) - email@example.
 
 Project Link: [https://github.com/rayanthoney/react-nativeRyde](https://github.com/rayanthoney/react-nativeRyde)
 
+## Contributing
+
+### Tutorial
+
+This [GitHub](https://github.com/adrianhajdin/uber.git) repository contains the code corresponding to an in-depth tutorial available on the YouTube
+channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+
+If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects
+like these step-by-step in a beginner-friendly manner!
+
+<a href="https://youtu.be/kmy_YNhl0mw" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[React_Native]: https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB
+[React_Native-url]: https://example.com/
+[Expo]: https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020
+[Expo-url]: https://example.com/
+[TypeScript]: https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6
+[TypeScript-url]: https://example.com/
+[TailWind]: https://img.shields.io/badge/-Nativewind-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4
+[TailWind-url]: https://example.com/
+[Postgresql]: https://img.shields.io/badge/-PostGreSQL-black?style=for-the-badge&logoColor=white&logo=postgresql&color=4169e1
+[Postgresql-url]: https://example.com/
+[Stripe]: https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=6860ff
+[Stripe-url]: https://example.com/
+[Clerk]: https://img.shields.io/badge/-Clerk-black?style=for-the-badge&logoColor=white&logo=clerk&color=787984
+[Clerk-url]: https://example.com/
+[Google-Maps]: https://img.shields.io/badge/-Google_Maps-black?style=for-the-badge&logoColor=white&logo=google&color=34A853
+[Google-Maps-url]: https://example.com/
+[Zustand]: https://img.shields.io/badge/-Zustand-black?style=for-the-badge&logoColor=white&logo=zustand&color=a24f73
+[Zustand-url]: https://example.com/

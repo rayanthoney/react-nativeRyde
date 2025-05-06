@@ -66,7 +66,18 @@
 <br>
 
 <!-- BUILT WITH -->
-## Built
+## Built With
+
+### Tech Stack
+
+- React Native
+- Expo
+- Stripe
+- PostgreSQL
+- Google Maps
+- zustand
+- Clerk
+- Tailwind CSS
 
 <br>
 
@@ -76,6 +87,9 @@
 [![TailWind CSS][Tailwind]][TailWind-url]
 [![Postgresql][Postgresql]][Postgresql-url]
 [![Stripe][Stripe]][Stripe-url]
+[![Clerk][Clerk]][Clerk-url]
+[![Google-Maps][Google-Maps]][Google-Maps-url]
+[![Zustand][Zustand]][Zustand-url]
 
 <br>
 
@@ -93,6 +107,12 @@
 [Postgresql-url]: https://example.com/
 [Stripe]: https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=6860ff
 [Stripe-url]: https://example.com/
+[Clerk]: https://img.shields.io/badge/-Clerk-black?style=for-the-badge&logoColor=white&logo=clerk&color=787984
+[Clerk-url]: https://example.com/
+[Google-Maps]: https://img.shields.io/badge/-Google_Maps-black?style=for-the-badge&logoColor=white&logo=google&color=34A853
+[Google-Maps-url]: https://example.com/
+[Zustand]: https://img.shields.io/badge/-Zustand-black?style=for-the-badge&logoColor=white&logo=zustand&color=a24f73
+[Zustand-url]: https://example.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br>
@@ -106,10 +126,25 @@ Built with React Native for handling the user interface, Google Maps for renderi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- PREREQUISITES -->
 ## Prerequisites
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/rayanthoney/react-nativeRyde.git
+cd uber
+```
+
+<!-- INSTALLATION -->
 ## Installation
 
 1. Install dependencies
@@ -133,7 +168,7 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-
+<!-- FRESH PROJECT -->
 ### Get a fresh project
 
 When you're ready, run:
@@ -144,6 +179,7 @@ npm run reset-project
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
+<!-- LEARN MORE -->
 ### Learn more
 
 To learn more about developing your project with Expo, look at the following resources:
@@ -180,10 +216,12 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LICENSE -->
 ## License
 
 Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
+<!-- CONTACT -->
 ## Contact
 
 Ray Anthoney - [@rayanthoney](https://twitter.com/@rayanthoney) - email@example.com

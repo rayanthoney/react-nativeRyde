@@ -1,27 +1,18 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/rayanthoney/ram_movie_app/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/rayanthoney/ram_uber_app/pull/73 -->
 
 <a id="readme-top"></a>
 
-# React Native a fully functional Uber Clone
+<!-- WELCOME -->
 
-<div align="center" >
-<!-- link to project -->
-    <a href='-URL TO DEMO GOES HERE-'>
-    <!-- link to local image -->
-        <img src="assets/images/PlanetMap.png" alt="React Native Image" height=""/>
-    </a>
-</div>
-
-<br>
 <div align="center">
    <a href="https://github.com/rayanthoney/react-nativeRyde.git">
     <img src="assets/images/react-logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Welcome to your Expo app 👋</h3>
+  <h2 align="center">Welcome to your Expo app 👋</h2>
 
    <p align="center">
-    An Uber Clone app with Payments | PostgreSQL, TypeScript, Stripe, Tailwind.
+    <h3>An Uber Clone app with Payments | PostgreSQL, TypeScript, Stripe, Tailwind.</h3>
     <br />
     <a href="https://github.com/rayanthoney/react-nativeRyde.git"><strong>Explore the docs »</strong></a>
     <br />
@@ -34,12 +25,48 @@
   </p>
 </div>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents:</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <!-- <li><a href="#contributing">Contributing</a></li> -->
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <!-- <li><a href="#acknowledgments">Acknowledgments</a></li> -->
+  </ol>
+</details>
 <br>
-Built with React Native for handling the user interface, Google Maps for rendering maps with directions, stripe for handling payments, serverless Postgres for managing databases, and styled with TailwindCSS, Uber Clone is a perfect mobile app. The primary goal is to demonstrate how to develop full-stack mobile applications to showcase the developer's skills in a unique manner that creates a lasting impact.
 
-<!-- Tech Stack -->
+<!-- ABOUT THE PROJECT -->
+# About The Project
 
-## ⚙️ Tech Stack
+<div align="center" >
+<!-- link to project -->
+    <a href='-URL TO DEMO GOES HERE-'>
+    <!-- link to local image -->
+        <img src="assets/images/PlanetMap.png" alt="React Native Image" height=""/>
+    </a>
+</div>
+
+<br>
+
+<!-- BUILT WITH -->
+## Built
 
 <br>
 
@@ -51,10 +78,9 @@ Built with React Native for handling the user interface, Google Maps for renderi
 [![Stripe][Stripe]][Stripe-url]
 
 <br>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<!-- [product-screenshot]: assets/images/rn_movie.jpg -->
-
 [React_Native]: https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB
 [React_Native-url]: https://example.com/
 [Expo]: https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020
@@ -70,3 +96,98 @@ Built with React Native for handling the user interface, Google Maps for renderi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+<br>
+Built with React Native for handling the user interface, Google Maps for rendering maps with directions, stripe for handling payments, serverless Postgres for managing databases, and styled with TailwindCSS, Uber Clone is a perfect mobile app. The primary goal is to demonstrate how to develop full-stack mobile applications to showcase the developer's skills in a unique manner that creates a lasting impact.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Prerequisites
+
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+## Installation
+
+1. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+2. Start the app
+
+   ```bash
+   npx expo start
+   ```
+
+In the output, you'll find options to open the app in a
+
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+
+
+### Get a fresh project
+
+When you're ready, run:
+
+```bash
+npm run reset-project
+```
+
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+
+### Learn more
+
+To learn more about developing your project with Expo, look at the following resources:
+
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- USAGE -->
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
+
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## License
+
+Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+
+## Contact
+
+Ray Anthoney - [@rayanthoney](https://twitter.com/@rayanthoney) - email@example.com
+
+Project Link: [https://github.com/rayanthoney/react-nativeRyde](https://github.com/rayanthoney/react-nativeRyde)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

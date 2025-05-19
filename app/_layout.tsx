@@ -1,10 +1,11 @@
-import { SplashScreen, Stack } from "expo-router";
+import { Stack } from "expo-router";
 import { useEffect } from "react";
 import "./globals.css";
+import * as SplashScreen from "expo-splash-screen";
+
 
 import { useFonts } from "expo-font";
 import "react-native-reanimated";
-// import { SplashScreen } from "expo-splash-screen";
 
 // Prevent the splash screen from auto-hiding before asset loading is complete.
 SplashScreen.preventAutoHideAsync();
@@ -16,12 +17,12 @@ export default function RootLayout() {
     "Jakarta-ExtraLight": require("../assets/fonts/PlusJakartaSans-ExtraLight.ttf"),
     "Jakarta-Light": require("../assets/fonts/PlusJakartaSans-Light.ttf"),
     "Jakarta-Medium": require("../assets/fonts/PlusJakartaSans-Medium.ttf"),
-    Jakarta: require("../assets/fonts/PlusJakartaSans-Regular.ttf"),
+    "Jakarta": require("../assets/fonts/PlusJakartaSans-Regular.ttf"),
     "Jakarta-SemiBold": require("../assets/fonts/PlusJakartaSans-SemiBold.ttf"),
   });
 
   useEffect(() => {
-    if (loaded) {
+    if (loaded) {~
       SplashScreen.hideAsync();
     }
   }, [loaded]);

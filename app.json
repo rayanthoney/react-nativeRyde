@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Uber",
+    "name": "Uber Clone",
     "slug": "uber",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -33,10 +33,14 @@
       [
         "expo-splash-screen",
         {
+          "backgroundColor": "#ffffff",
           "image": "./assets/images/splash.png",
+          "dark": {
+            "image": "./assets/splash-icon-dark.png",
+            "backgroundColor": "#000000"
+          },
           "imageWidth": 200,
-          "resizeMode": "contain",
-          "backgroundColor": "#ffffff"
+          "resizeMode": "contain"
         }
       ]
     ],
